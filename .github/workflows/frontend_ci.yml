@@ -1,5 +1,6 @@
 # week07/.github/workflows/frontend_ci.yml
 
+#CHANGE to frontend
 name: Frontend CI - Build & Push Image
 
 on:
